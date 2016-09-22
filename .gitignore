@@ -1,0 +1,17 @@
+# Node
+node_modules
+
+#dev 
+app/config/development.json
+typings
+
+#junk
+serverOLD.js
+.jsbeautifyrc
+.eslintrc.js
+jsconfig.json
+chatCatDebug.log
+
+#test
+test
+testagain
